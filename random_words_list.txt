@@ -1,0 +1,2 @@
+jibberish = [ caterpillar, coffe, table, desk, barbell, spotify, shirt, car, semi, product, restaurant, transmission, screen, surgery, conditioner,
+alcohol, sharpie, sticky, note, bed, bottle, food, rice, window, sun, screen, grass, tree, firtlizer, dead, snow, programming, software, CPU, engine]
